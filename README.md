@@ -1,12 +1,13 @@
-# React + Vite
+Ejercicio 1. Añadir y eliminar elementos de una lista (React) Requisitos: Tener instalado Nodejs (v16.x.x o superior). Tener instalado npm.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Duración máxima: 40 minutos
 
-Currently, two official plugins are available:
+Enunciado:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Crear una app en React que implemente un campo de texto y botón para añadir un elemento.
 
-## Expanding the ESLint configuration
+Cuando se hace click en el botón, el texto en el campo de entrada debe agregarse a continuación en una lista de elementos.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Además, cada vez que se hace click en cualquier elemento de la lista, debe eliminarse de la lista.
+
+- [] Dar importancia a la funcionalidad y usabilidad, más que al diseño visual.
